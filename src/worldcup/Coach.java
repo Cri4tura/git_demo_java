@@ -1,7 +1,7 @@
 package worldcup;
 
 public class Coach extends Person{
-
+	//Jiahao Changes
     private boolean active;
     private String style;
 
