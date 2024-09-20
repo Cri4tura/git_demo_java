@@ -1,7 +1,6 @@
 package worldcup;
 
 import java.util.ArrayList;
-
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
@@ -13,6 +12,7 @@ public class Game {
 
     //TODO to uncomment when class Field is created
     //Field field;
+	Field field;
     int size;
     ArrayList<Team> teams;
 
