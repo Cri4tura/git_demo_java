@@ -12,7 +12,7 @@ import java.util.ArrayList;
  */
 public class Team {
     String name;
-    ArrayList<Player> players;
+    ArrayList<Player> players = new ArrayList<Player>();
     
     
     public void play(){
