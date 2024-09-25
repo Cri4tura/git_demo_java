@@ -47,8 +47,7 @@ public class Game {
         //TODO 2 forward players for teamB
         
         //TODO create coach team B
-        
-        
+        	Team teamB = new Team();
         //TODO create teams
         //Team teamA = new Team();      
         //TODO add players to teams
