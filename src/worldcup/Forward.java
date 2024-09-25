@@ -1,6 +1,6 @@
 package worldcup;
 
-public class Forward {
+public class Forward extends Player{
     private boolean killer;
 
     public void drible(){
