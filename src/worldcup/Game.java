@@ -14,7 +14,7 @@ public class Game {
     Field field;
 
     int size;
-    ArrayList<Team> teams;
+    ArrayList<Team> teams = new ArrayList<Team>();
 
     public static void main(String[] args) {
         int variableMethod;
